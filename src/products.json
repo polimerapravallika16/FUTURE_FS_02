@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Wireless Headphones", "price": 2999, "category": "Electronics" },
+  { "id": 2, "name": "Running Shoes", "price": 1999, "category": "Sports" },
+  { "id": 3, "name": "Smart Watch", "price": 4999, "category": "Electronics" },
+  { "id": 4, "name": "Backpack", "price": 1499, "category": "Accessories" },
+  { "id": 5, "name": "USB-C Cable", "price": 499, "category": "Electronics" },
+  { "id": 6, "name": "Yoga Mat", "price": 799, "category": "Sports" },
+  { "id": 7, "name": "Portable Charger", "price": 1299, "category": "Electronics" },
+  { "id": 8, "name": "Water Bottle", "price": 599, "category": "Accessories" },
+  { "id": 9, "name": "Phone Stand", "price": 299, "category": "Accessories" },
+  { "id": 10, "name": "Wireless Mouse", "price": 899, "category": "Electronics" }
+]
